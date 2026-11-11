@@ -1,0 +1,80 @@
+{
+  "locale_tag": {
+    "message": "zh-TW"
+  },
+  "tagline": {
+    "message": "安全密碼產生器"
+  },
+  "configuration": {
+    "message": "密碼設定"
+  },
+  "master_password": {
+    "message": "主密碼"
+  },
+  "site_identifier": {
+    "message": "網站識別碼"
+  },
+  "prefix": {
+    "message": "前綴"
+  },
+  "suffix": {
+    "message": "後綴"
+  },
+  "mode": {
+    "message": "密碼模式"
+  },
+  "master_placeholder": {
+    "message": "簡單易記即可"
+  },
+  "site_placeholder": {
+    "message": "建議使用域名，如 github.com"
+  },
+  "mode_mixing": {
+    "message": "混合（推薦）"
+  },
+  "mode_lower_mixing": {
+    "message": "小寫混合"
+  },
+  "mode_letters_and_numbers": {
+    "message": "字母和數字"
+  },
+  "mode_lower_letters_and_numbers": {
+    "message": "小寫字母和數字"
+  },
+  "mode_numbers": {
+    "message": "純數字"
+  },
+  "copied": {
+    "message": "✓ 已複製到剪貼簿"
+  },
+  "privacy": {
+    "message": "密碼在本地產生，不會上傳或儲存"
+  },
+  "generate_and_copy": {
+    "message": "產生並複製"
+  },
+  "generate_and_fill": {
+    "message": "產生並填入"
+  },
+  "fill_failed": {
+    "message": "無法填入。請先選取密碼欄或文字欄，再按滑鼠右鍵選擇 Good Pass。"
+  },
+  "show_master": {
+    "message": "顯示主密碼"
+  },
+  "hide_master": {
+    "message": "隱藏主密碼"
+  },
+  "copy_failed": {
+    "message": "複製失敗，請重試。"
+  },
+  "required_fields": {
+    "message": "請輸入主密碼和網站識別碼。"
+  },
+  "generation_failed": {
+    "message": "無法產生密碼，請檢查輸入後重試。"
+  },
+  "settings_failed": {
+    "message": "無法讀取或儲存設定。"
+  }
+}

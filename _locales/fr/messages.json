@@ -1,0 +1,80 @@
+{
+  "locale_tag": {
+    "message": "fr"
+  },
+  "tagline": {
+    "message": "Générateur de mots de passe sécurisé"
+  },
+  "configuration": {
+    "message": "Configuration"
+  },
+  "master_password": {
+    "message": "Mot de passe maître"
+  },
+  "site_identifier": {
+    "message": "Identifiant du site"
+  },
+  "prefix": {
+    "message": "Préfixe"
+  },
+  "suffix": {
+    "message": "Suffixe"
+  },
+  "mode": {
+    "message": "Mode"
+  },
+  "master_placeholder": {
+    "message": "Quelque chose de facile à retenir"
+  },
+  "site_placeholder": {
+    "message": "ex. github.com"
+  },
+  "mode_mixing": {
+    "message": "Mixte (Recommandé)"
+  },
+  "mode_lower_mixing": {
+    "message": "Minuscules mixtes"
+  },
+  "mode_letters_and_numbers": {
+    "message": "Lettres & Chiffres"
+  },
+  "mode_lower_letters_and_numbers": {
+    "message": "Minuscules & Chiffres"
+  },
+  "mode_numbers": {
+    "message": "Chiffres uniquement"
+  },
+  "copied": {
+    "message": "✓ Copié dans le presse-papiers"
+  },
+  "privacy": {
+    "message": "Mots de passe générés localement, jamais envoyés ni stockés"
+  },
+  "generate_and_copy": {
+    "message": "Générer et copier"
+  },
+  "generate_and_fill": {
+    "message": "Générer et remplir"
+  },
+  "fill_failed": {
+    "message": "Impossible de remplir ce champ. Cliquez dans un champ de mot de passe ou de texte, puis sélectionnez à nouveau Good Pass dans le menu contextuel."
+  },
+  "show_master": {
+    "message": "Afficher le mot de passe maître"
+  },
+  "hide_master": {
+    "message": "Masquer le mot de passe maître"
+  },
+  "copy_failed": {
+    "message": "La copie a échoué. Réessayez."
+  },
+  "required_fields": {
+    "message": "Saisissez votre mot de passe maître et l’identifiant du site."
+  },
+  "generation_failed": {
+    "message": "Impossible de générer le mot de passe. Vérifiez les champs et réessayez."
+  },
+  "settings_failed": {
+    "message": "Impossible de charger ou d’enregistrer les paramètres."
+  }
+}

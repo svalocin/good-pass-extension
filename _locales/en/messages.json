@@ -1,0 +1,80 @@
+{
+  "locale_tag": {
+    "message": "en"
+  },
+  "tagline": {
+    "message": "Secure Password Generator"
+  },
+  "configuration": {
+    "message": "Configuration"
+  },
+  "master_password": {
+    "message": "Master Password"
+  },
+  "site_identifier": {
+    "message": "Site Identifier"
+  },
+  "prefix": {
+    "message": "Prefix"
+  },
+  "suffix": {
+    "message": "Suffix"
+  },
+  "mode": {
+    "message": "Mode"
+  },
+  "master_placeholder": {
+    "message": "Something easy to remember"
+  },
+  "site_placeholder": {
+    "message": "e.g. github.com"
+  },
+  "mode_mixing": {
+    "message": "Mixed (Recommended)"
+  },
+  "mode_lower_mixing": {
+    "message": "Lowercase Mixed"
+  },
+  "mode_letters_and_numbers": {
+    "message": "Letters & Numbers"
+  },
+  "mode_lower_letters_and_numbers": {
+    "message": "Lowercase Letters & Numbers"
+  },
+  "mode_numbers": {
+    "message": "Numbers Only"
+  },
+  "copied": {
+    "message": "✓ Copied to clipboard"
+  },
+  "privacy": {
+    "message": "Passwords generated locally, never uploaded or stored"
+  },
+  "generate_and_copy": {
+    "message": "Generate and Copy"
+  },
+  "generate_and_fill": {
+    "message": "Generate and Fill"
+  },
+  "fill_failed": {
+    "message": "Could not fill this field. Focus a password or text field and select Good Pass again."
+  },
+  "show_master": {
+    "message": "Show master password"
+  },
+  "hide_master": {
+    "message": "Hide master password"
+  },
+  "copy_failed": {
+    "message": "Could not copy. Try again."
+  },
+  "required_fields": {
+    "message": "Enter your master password and site identifier."
+  },
+  "generation_failed": {
+    "message": "Could not generate a password. Check your input and try again."
+  },
+  "settings_failed": {
+    "message": "Could not load or save your settings."
+  }
+}

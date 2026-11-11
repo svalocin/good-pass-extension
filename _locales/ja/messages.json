@@ -1,0 +1,80 @@
+{
+  "locale_tag": {
+    "message": "ja"
+  },
+  "tagline": {
+    "message": "セキュアパスワード生成器"
+  },
+  "configuration": {
+    "message": "パスワード設定"
+  },
+  "master_password": {
+    "message": "マスターパスワード"
+  },
+  "site_identifier": {
+    "message": "サイト識別子"
+  },
+  "prefix": {
+    "message": "接頭辞"
+  },
+  "suffix": {
+    "message": "接尾辞"
+  },
+  "mode": {
+    "message": "モード"
+  },
+  "master_placeholder": {
+    "message": "覚えやすいものを"
+  },
+  "site_placeholder": {
+    "message": "例: github.com"
+  },
+  "mode_mixing": {
+    "message": "混合（推奨）"
+  },
+  "mode_lower_mixing": {
+    "message": "小文字混合"
+  },
+  "mode_letters_and_numbers": {
+    "message": "英数字"
+  },
+  "mode_lower_letters_and_numbers": {
+    "message": "小文字英数字"
+  },
+  "mode_numbers": {
+    "message": "数字のみ"
+  },
+  "copied": {
+    "message": "✓ クリップボードにコピーしました"
+  },
+  "privacy": {
+    "message": "パスワードはローカルで生成、送信・保存なし"
+  },
+  "generate_and_copy": {
+    "message": "生成してコピー"
+  },
+  "generate_and_fill": {
+    "message": "生成して入力"
+  },
+  "fill_failed": {
+    "message": "入力できませんでした。パスワード欄またはテキスト欄にフォーカスし、右クリックして Good Pass を選び直してください。"
+  },
+  "show_master": {
+    "message": "マスターパスワードを表示"
+  },
+  "hide_master": {
+    "message": "マスターパスワードを非表示"
+  },
+  "copy_failed": {
+    "message": "コピーできませんでした。もう一度お試しください。"
+  },
+  "required_fields": {
+    "message": "マスターパスワードとサイト識別子を入力してください。"
+  },
+  "generation_failed": {
+    "message": "パスワードを生成できませんでした。入力を確認して再試行してください。"
+  },
+  "settings_failed": {
+    "message": "設定を読み込めないか、保存できませんでした。"
+  }
+}

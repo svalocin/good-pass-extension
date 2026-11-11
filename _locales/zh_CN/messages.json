@@ -1,0 +1,80 @@
+{
+  "locale_tag": {
+    "message": "zh-CN"
+  },
+  "tagline": {
+    "message": "安全密码生成器"
+  },
+  "configuration": {
+    "message": "密码配置"
+  },
+  "master_password": {
+    "message": "主密码"
+  },
+  "site_identifier": {
+    "message": "网站标识"
+  },
+  "prefix": {
+    "message": "前缀"
+  },
+  "suffix": {
+    "message": "后缀"
+  },
+  "mode": {
+    "message": "密码模式"
+  },
+  "master_placeholder": {
+    "message": "简单易记即可"
+  },
+  "site_placeholder": {
+    "message": "建议使用域名，如 github.com"
+  },
+  "mode_mixing": {
+    "message": "混合（推荐）"
+  },
+  "mode_lower_mixing": {
+    "message": "小写混合"
+  },
+  "mode_letters_and_numbers": {
+    "message": "字母和数字"
+  },
+  "mode_lower_letters_and_numbers": {
+    "message": "小写字母和数字"
+  },
+  "mode_numbers": {
+    "message": "纯数字"
+  },
+  "copied": {
+    "message": "✓ 已复制到剪贴板"
+  },
+  "privacy": {
+    "message": "密码在本地生成，不会上传或储存"
+  },
+  "generate_and_copy": {
+    "message": "生成并复制"
+  },
+  "generate_and_fill": {
+    "message": "生成并填入"
+  },
+  "fill_failed": {
+    "message": "无法填入。请先聚焦密码框或文本框，再右键选择 Good Pass。"
+  },
+  "show_master": {
+    "message": "显示主密码"
+  },
+  "hide_master": {
+    "message": "隐藏主密码"
+  },
+  "copy_failed": {
+    "message": "复制失败，请重试。"
+  },
+  "required_fields": {
+    "message": "请输入主密码和网站标识。"
+  },
+  "generation_failed": {
+    "message": "无法生成密码，请检查输入后重试。"
+  },
+  "settings_failed": {
+    "message": "无法读取或保存设置。"
+  }
+}

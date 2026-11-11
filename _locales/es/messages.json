@@ -1,0 +1,80 @@
+{
+  "locale_tag": {
+    "message": "es"
+  },
+  "tagline": {
+    "message": "Generador de contraseñas seguras"
+  },
+  "configuration": {
+    "message": "Configuración"
+  },
+  "master_password": {
+    "message": "Contraseña maestra"
+  },
+  "site_identifier": {
+    "message": "Identificador del sitio"
+  },
+  "prefix": {
+    "message": "Prefijo"
+  },
+  "suffix": {
+    "message": "Sufijo"
+  },
+  "mode": {
+    "message": "Modo"
+  },
+  "master_placeholder": {
+    "message": "Algo fácil de recordar"
+  },
+  "site_placeholder": {
+    "message": "ej. github.com"
+  },
+  "mode_mixing": {
+    "message": "Mixto (Recomendado)"
+  },
+  "mode_lower_mixing": {
+    "message": "Minúsculas mixtas"
+  },
+  "mode_letters_and_numbers": {
+    "message": "Letras y números"
+  },
+  "mode_lower_letters_and_numbers": {
+    "message": "Minúsculas y números"
+  },
+  "mode_numbers": {
+    "message": "Solo números"
+  },
+  "copied": {
+    "message": "✓ Copiado al portapapeles"
+  },
+  "privacy": {
+    "message": "Contraseñas generadas localmente, nunca se suben ni almacenan"
+  },
+  "generate_and_copy": {
+    "message": "Generar y copiar"
+  },
+  "generate_and_fill": {
+    "message": "Generar y rellenar"
+  },
+  "fill_failed": {
+    "message": "No se pudo rellenar el campo. Enfoca un campo de contraseña o de texto y vuelve a seleccionar Good Pass en el menú contextual."
+  },
+  "show_master": {
+    "message": "Mostrar contraseña maestra"
+  },
+  "hide_master": {
+    "message": "Ocultar contraseña maestra"
+  },
+  "copy_failed": {
+    "message": "No se pudo copiar. Vuelve a intentarlo."
+  },
+  "required_fields": {
+    "message": "Introduce la contraseña maestra y el identificador del sitio."
+  },
+  "generation_failed": {
+    "message": "No se pudo generar la contraseña. Revisa los datos y vuelve a intentarlo."
+  },
+  "settings_failed": {
+    "message": "No se pudo cargar o guardar la configuración."
+  }
+}

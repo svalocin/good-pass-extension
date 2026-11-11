@@ -1,0 +1,80 @@
+{
+  "locale_tag": {
+    "message": "de"
+  },
+  "tagline": {
+    "message": "Sicherer Passwortgenerator"
+  },
+  "configuration": {
+    "message": "Konfiguration"
+  },
+  "master_password": {
+    "message": "Master-Passwort"
+  },
+  "site_identifier": {
+    "message": "Website-Kennung"
+  },
+  "prefix": {
+    "message": "Präfix"
+  },
+  "suffix": {
+    "message": "Suffix"
+  },
+  "mode": {
+    "message": "Modus"
+  },
+  "master_placeholder": {
+    "message": "Etwas Leichtes zu Merkendes"
+  },
+  "site_placeholder": {
+    "message": "z.B. github.com"
+  },
+  "mode_mixing": {
+    "message": "Gemischt (Empfohlen)"
+  },
+  "mode_lower_mixing": {
+    "message": "Kleinbuchstaben Gemischt"
+  },
+  "mode_letters_and_numbers": {
+    "message": "Buchstaben & Zahlen"
+  },
+  "mode_lower_letters_and_numbers": {
+    "message": "Kleinbuchstaben & Zahlen"
+  },
+  "mode_numbers": {
+    "message": "Nur Zahlen"
+  },
+  "copied": {
+    "message": "✓ In Zwischenablage kopiert"
+  },
+  "privacy": {
+    "message": "Passwörter werden lokal generiert, nie hochgeladen oder gespeichert"
+  },
+  "generate_and_copy": {
+    "message": "Erstellen und kopieren"
+  },
+  "generate_and_fill": {
+    "message": "Erstellen und einfügen"
+  },
+  "fill_failed": {
+    "message": "Einfügen fehlgeschlagen. Fokussieren Sie ein Passwort- oder Textfeld und wählen Sie im Kontextmenü erneut Good Pass."
+  },
+  "show_master": {
+    "message": "Master-Passwort anzeigen"
+  },
+  "hide_master": {
+    "message": "Master-Passwort ausblenden"
+  },
+  "copy_failed": {
+    "message": "Kopieren fehlgeschlagen. Versuchen Sie es erneut."
+  },
+  "required_fields": {
+    "message": "Geben Sie das Master-Passwort und die Website-Kennung ein."
+  },
+  "generation_failed": {
+    "message": "Das Passwort konnte nicht erstellt werden. Prüfen Sie Ihre Eingaben und versuchen Sie es erneut."
+  },
+  "settings_failed": {
+    "message": "Die Einstellungen konnten nicht geladen oder gespeichert werden."
+  }
+}

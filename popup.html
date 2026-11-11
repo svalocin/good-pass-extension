@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Good Pass</title>
+    <link rel="stylesheet" href="popup.css" />
+    <script defer src="vendor/md5.min.js"></script>
+    <script defer src="vendor/tldts.umd.min.js"></script>
+    <script defer src="popup.js"></script>
+  </head>
+  <body>
+    <main>
+      <p class="status" id="status" role="status"></p>
+      <header class="app-header">
+        <img src="icons/logo.png" alt="" width="40" height="40" />
+        <div>
+          <h1>Good Pass</h1>
+          <p data-message="tagline"></p>
+        </div>
+      </header>
+
+      <form class="card" id="password-form" autocomplete="off" novalidate>
+        <h2 class="card-label" data-message="configuration"></h2>
+        <fieldset id="configuration" disabled>
+          <div>
+            <label for="master" data-message="master_password"></label>
+            <div class="input-wrap">
+              <input
+                id="master"
+                type="password"
+                data-placeholder="master_placeholder"
+                spellcheck="false"
+                required
+              />
+              <button
+                id="toggle-master"
+                type="button"
+                aria-controls="master"
+                aria-pressed="false"
+              >
+                <span aria-hidden="true">👁</span>
+              </button>
+            </div>
+          </div>
+
+          <div>
+            <label for="site" data-message="site_identifier"></label>
+            <input
+              id="site"
+              type="text"
+              data-placeholder="site_placeholder"
+              spellcheck="false"
+              required
+            />
+          </div>
+
+          <div class="form-row">
+            <div>
+              <label for="prefix" data-message="prefix"></label>
+              <input id="prefix" type="text" spellcheck="false" />
+            </div>
+            <div>
+              <label for="suffix" data-message="suffix"></label>
+              <input id="suffix" type="text" spellcheck="false" />
+            </div>
+          </div>
+
+          <div>
+            <label for="mode" data-message="mode"></label>
+            <div class="select-wrap">
+              <select id="mode">
+                <option value="mixing" data-message="mode_mixing"></option>
+                <option
+                  value="lower_mixing"
+                  data-message="mode_lower_mixing"
+                ></option>
+                <option
+                  value="letters_and_numbers"
+                  data-message="mode_letters_and_numbers"
+                ></option>
+                <option
+                  value="lower_letters_and_numbers"
+                  data-message="mode_lower_letters_and_numbers"
+                ></option>
+                <option value="numbers" data-message="mode_numbers"></option>
+              </select>
+            </div>
+          </div>
+
+          <button
+            class="generate"
+            id="generate"
+            type="submit"
+            data-message="generate_and_copy"
+          ></button>
+        </fieldset>
+      </form>
+
+      <div class="result-card" id="result-card" aria-live="polite">
+        <div class="result-value is-placeholder" id="result-value">—</div>
+      </div>
+
+      <p class="privacy" data-message="privacy"></p>
+    </main>
+  </body>
+</html>
